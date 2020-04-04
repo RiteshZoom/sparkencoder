@@ -44,7 +44,9 @@ Go to the root folder run command "sbt clean pacakge"
 
 ## Runnng the application
 
-1. sbt command: from root folder run the below command
+1. git clone git@github.com:okcredit/sparkencoder.git
+2. Do your changes and run as below
+2. sbt command: from root folder run the below command
 2. sbt "run <app_name> <input_file_path> <output_folder>"
 3. example : sbt "run encoder /tmp/inputfile /tmp/encodedoutput"
 
