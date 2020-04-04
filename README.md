@@ -49,10 +49,6 @@ Go to the root folder run command "sbt clean pacakge"
 3. example : sbt "run encoder /tmp/inputfile /tmp/encodedoutput"
 
 
-## Authors
-
-* **Kirankumar D G** (https://github.com/kirankumardg)
-
 
 
 
